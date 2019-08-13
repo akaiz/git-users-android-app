@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Git Users</string>
+    <string name="title_activity_users">Users</string>
+    <string name="User_Name">User Name</string>
+    <string name="Enter_Name">Enter name</string>
+    <string name="Search">Search</string>
+    <string name="Searching">Searching</string>
+    <string name="score">score</string>
+    <string name="popular_contributor">Popular Contributor</string>
+    <string name="value">value</string>
+    <string name="refresh">Refresh</string>
+</resources>
